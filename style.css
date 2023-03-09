@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Comic Sans MS;
+    src =url (comic.ttf);
+}
+html {
+    border: solid 20px;
+    border-color: white;
+}
+
+h1 {
+    font-family: 'Comic Sans MS';
+}
+
+body {
+    background-image: url('smileheat.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
